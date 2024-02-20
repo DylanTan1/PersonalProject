@@ -4,8 +4,6 @@
 
 To recognise different sign language alphabets and convert them into readable text
 
-## Software requirements
-
 ## Project setup
 
 1. Create a python virtual environment
