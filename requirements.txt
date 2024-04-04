@@ -6,3 +6,6 @@ opencv-python
 jupyter
 ipykernel
 pythran-openblas
+tensorflow
+mediapipe
+matplotlib
