@@ -9,3 +9,4 @@ pythran-openblas
 tensorflow
 mediapipe
 matplotlib
+scikit-learn
